@@ -1,6 +1,29 @@
-# Plataforma de Jogos em Java
-
+# GameHUB - Plataforma de Jogos em Java
 Projeto desenvolvido em Java, utilizando a biblioteca Swing para a interface gráfica. O sistema permite que o administrador cadastre e gerencie jogos, enquanto o cliente pode visualizar o catálogo e efetuar compras.
+
+**Prototipação: <a href="https://www.figma.com/design/RObLbErhhGqPyjLGwAADSx/Trabalho?node-id=0-1&t=V8yeD6PXWx0ub1HC-1">Design Figma</a>**
+
+Logins para teste:
+
+- Admin: admin2024/senha.2024
+
+- Cliente: cliente2024/senha.2024
+
+<div >
+<img src="https://github.com/beatrizac03/Trabalho-Final-de-LP-POO/blob/main/arquivosREADME/CapaGithub.png" >
+</div>
+
+## Preview GUI
+
+
+https://github.com/beatrizac03/Trabalho-Final-de-LP-POO/assets/134962161/34dbc9a0-505e-45da-8434-fb730a15619a
+
+
+
+## Diagrama de Classe
+<div >
+<img width="550px" height="400px" src="https://github.com/beatrizac03/Trabalho-Final-de-LP-POO/blob/main/arquivosREADME/diagramaClasse.jpeg" >
+</div>
 
 ## Ficha Técnica
 
@@ -10,6 +33,10 @@ Projeto desenvolvido em Java, utilizando a biblioteca Swing para a interface gr�
 - **Gerenciador de BD**: DBeaver
 
 ## Funcionalidades
+
+### Tela Login
+- **Entrar**: Fazer Login.
+- **Criar conta**: Criar nova conta com nome e senha.
 
 ### Painel Admin
 
